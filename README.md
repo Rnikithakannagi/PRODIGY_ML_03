@@ -1,1 +1,1 @@
-# PRODIGY_ML_03
+This project aims to implement a Support Vector Machine (SVM) algorithm to classify images of cats and dogs from the Kaggle dataset. The SVM algorithm will be trained to differentiate between images of cats and dogs using the features extracted from the images.The dataset contains a large number of images of cats and dogs. It is divided into a training set and a test set. The training set is used to train the SVM classifier, while the test set is used to evaluate its performance.# PRODIGY_ML_03
